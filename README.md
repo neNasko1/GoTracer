@@ -1,14 +1,14 @@
-##General info	
+## General info	
 Simple ray-tracer in golang, build without any additional libraries. Currently supports only spheres.
 
-##Technologies
+## Technologies
 None, only pure golang.
 
-##Images
-![Image1](/ProducedImages/image1)
-![Image2](/ProducedImages/image2)
-![Image3](/ProducedImages/image3)
+## Images
+![Image1](github.com/neNasko1/GoTracer/tree/main/ProducedImages/image1)
+![Image2](github.com/neNasko1/GoTracer/tree/main/ProducedImages/image2)
+![Image3](github.com/neNasko1/GoTracer/tree/main/ProducedImages/image3)
 
-##TODO 
+## TODO 
 Add triangle shapes, light sources, better goroutines.
 
